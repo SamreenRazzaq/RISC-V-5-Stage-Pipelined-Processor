@@ -1,6 +1,9 @@
 # RISC-V 5-Stage Pipelined-Processor
 
-This project implements a **RISC-V 5-Stage Pipelined Processor**. It includes five key stages: **Instruction Fetch (IF)**, **Instruction Decode (ID)**, **Execution (EX)**, **Memory Access (MEM)**, and **Write Back (WB)**. The architecture demonstrates how instruction execution is divided into parallel stages to improve throughput and processor performance.
+This project implements a **RISC-V 5-Stage Pipelined Processor**. 
+It includes five key stages: 
+**Instruction Fetch (IF)**, **Instruction Decode (ID)**, **Execution (EX)**, **Memory Access (MEM)**, and **Write Back (WB)**. 
+The architecture demonstrates how instruction execution is divided into parallel stages to improve throughput and processor performance.
 
 **Note**: Hazards (data, control, and structural) have not been handled in this implementation. 
 
